@@ -15,5 +15,9 @@ El proyecto está dividido en dos repositorios independientes:
 ## 🚀 Instrucciones para Ejecutar el Proyecto
 
 ```bash
-Nani016/frontend-gestion-roles 
-Nani016/backend-gestion-roles 
+ Instalación
+Pasos para instalar y ejecutar el proyecto en un entorno local.
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
+npm install
+npm start
